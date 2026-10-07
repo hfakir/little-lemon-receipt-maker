@@ -1,4 +1,4 @@
-# Lab Instructions: Little Lemon Receipt Maker.
+# Lab Instructions: Little Lemon Receipt Maker
 
 ## Assignment Instructions
 
